@@ -30,7 +30,7 @@
 // document.write("result = " + result);
 // q3
 // var username=prompt("Enter the name")
-// document.write("Hello" + username +"! Welcome.")
+// document.write( username )
 // q4,5
 // var num = prompt("Enter a number");
 
@@ -66,7 +66,7 @@
 
 // document.write("<h2>Mark Sheet</h2>");
 
-// document.write("<table border='1' cellpadding='10'>");
+// document.write(" cellpadding='10'>");
 
 // document.write("<tr>");
 // document.write("<th>Subject</th>");
